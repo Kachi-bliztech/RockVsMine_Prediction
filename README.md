@@ -16,11 +16,11 @@ This is a binary classification problem, as the target variable has two possible
 
 <h2>Skills </h2>
 
-- <b>pandas</b> 
-- <b>numpy</b>
-- <b>scikit-learn</b>
-- <b>logistic regression</b>
+- </b>pandas</b> 
+- </b>numpy</b>
+- </b>scikit-learn</b>
+- </b>logistic regression</b>
 
 <h2>Outcomes </h2>
 
-- <b>A trained Logistic Regression model that enables real-time identification of underwater objects based on sonar data, thereby enhancing submarine navigation and safety by avoiding potential threats.</b> 
+- </b>A trained Logistic Regression model that enables real-time identification of underwater objects based on sonar data, thereby enhancing submarine navigation and safety by avoiding potential threats.</b> 
